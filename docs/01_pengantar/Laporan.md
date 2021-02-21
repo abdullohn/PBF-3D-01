@@ -7,8 +7,8 @@
 
 ## Hasil Praktikum
 
-(Lampirkan screenshot hasil praktik di sini selengkap mungkin sesuai tujuan pembelajaran yang ingin dicapai)
+Setelah mengikuti dari web modernjs maka hasil akan menjadi gambar berikut
 
-![contoh gambar](img/polinema.png)
+![ss1](img/ss1.png)
 
-[contoh link](../../src/01_pengantar/hello.js)
+[link code](../../src/01_pengantar)

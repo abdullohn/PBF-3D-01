@@ -9,6 +9,12 @@ function App() {
         <p>
           Hello World!
         </p>
+        <p>
+          Abdulloh
+        </p>
+        <p>
+          NIM : 1841720209
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

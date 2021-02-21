@@ -1,4 +1,4 @@
-# 02 - Layout
+# 01 - Pengantar
 
 ## Tujuan Pembelajaran
 
@@ -7,7 +7,8 @@
 
 ## Hasil Praktikum
 
+Hasil :
 
 ![contoh gambar](img/asd.png)
 
-[contoh link](../../src/02_layout/)
+[contoh link](../../src/02_layout)

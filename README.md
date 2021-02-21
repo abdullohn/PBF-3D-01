@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3C/3D |
+| NIM | 1841720209 |
+| Nama Lengkap | Abdulloh |
+| Kelas | TI-3D |
 
 
 ## Struktur Folder

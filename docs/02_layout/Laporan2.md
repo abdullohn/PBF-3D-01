@@ -9,6 +9,6 @@
 
 Hasil :
 
-![contoh gambar](img/asd.png)
+![contoh gambar](img/asd.PNG)
 
 [contoh link](../../src/02_layout)

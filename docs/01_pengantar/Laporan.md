@@ -9,6 +9,6 @@
 
 Setelah mengikuti dari web modernjs maka hasil akan menjadi gambar berikut
 
-![ss1](img/ss1.png)
+![ss1](img/ss1.PNG)
 
 [link code](../../src/01_pengantar)

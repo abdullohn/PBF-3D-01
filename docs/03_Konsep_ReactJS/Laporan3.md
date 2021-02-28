@@ -16,9 +16,9 @@
 
 ### Praktikum 1
 
-![praktikum1.1](img\Praktikum_1\hasil3-1-1.PNG)
+![praktikum1.1](img/Praktikum_1/hasil3-1-1.PNG)
     
-![praktikum1.2](img\Praktikum_1\hasil3-1-2.PNG)
+![praktikum1.2](img/Praktikum_1/hasil3-1-2.PNG)
     
 Untuk melihat kode langsung klik tautan berikut [Link Kode](../../src/03_Konsep_ReactJS/Praktikum_1/src_1/index.js)
 

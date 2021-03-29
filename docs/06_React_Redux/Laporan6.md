@@ -41,5 +41,5 @@ Untuk melihat kode Praktikum 2 langsung klik tautan berikut [Link Code 2](../../
 
 3. Sintaks tersebut merupakan higher-order function yang berarti untuk mengoneksikan
 
-4. https://github.com/jfcere/react-redux-sample
-![tugas](img/Hasil6-tugas.PNG)
+4. Link : https://github.com/jfcere/react-redux-sample
+![tugas](img/Hasil6-Tugas.PNG)

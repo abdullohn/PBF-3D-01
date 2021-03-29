@@ -9,21 +9,13 @@
 
 ## Hasil Praktikum
 
-## Praktikum 1
+## Praktikum 
 
-    
-Untuk melihat kode langsung klik tautan berikut [Link Kode](../../src/05_API_dan_Router_ReactJS/Praktikum_1/index.js)
+![praktikum1](img/Hasil6-1.PNG)
 
+Untuk melihat kode Praktikum 1 langsung klik tautan berikut [Link Code 1](../../src/06_React_Redux/Praktikum_1/)
 
-## Praktikum 2
-
-![praktikum2](img/Praktikum_2/Hasil5-2-1.PNG)
-
-![praktikum2](img/Praktikum_2/Hasil5-2-2.PNG)
-
-![praktikum2](img/Praktikum_2/Hasil5-2-3.PNG)
-
-Untuk melihat kode langsung klik tautan berikut [Link Index](../../src/05_API_dan_Router_ReactJS/Praktikum_2/index.js) & [Link App](../../src/05_API_dan_Router_ReactJS/Praktikum_2/App.js)
+Untuk melihat kode Praktikum 2 langsung klik tautan berikut [Link Code 2](../../src/06_React_Redux/Praktikum_2/)
 
 
 
@@ -48,3 +40,6 @@ Untuk melihat kode langsung klik tautan berikut [Link Index](../../src/05_API_da
 - Immutability : Value yang tidak bisa diubah ketika sudah dideklerasikan
 
 3. Sintaks tersebut merupakan higher-order function yang berarti untuk mengoneksikan
+
+4. https://github.com/jfcere/react-redux-sample
+![tugas](img/Hasil6-tugas.PNG)

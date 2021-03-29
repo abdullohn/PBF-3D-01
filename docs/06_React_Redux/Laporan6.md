@@ -36,10 +36,10 @@ Untuk melihat kode Praktikum 2 langsung klik tautan berikut [Link Code 2](../../
 - Reducer : Sebuah function yang memiliki kembalian data (return some data)
 - Action Creators : Fungsi yang berguna untuk mengembalikan action object
 - Middleware : merupakan penengah antara aplikasi satu dengan yang lain dan mempemudah proses integrasi
-- Pure Functions :
+- Pure Functions : Sintaks ini berguna untuk membangun suatu fungsi
 - Immutability : Value yang tidak bisa diubah ketika sudah dideklerasikan
 
-3. Sintaks tersebut merupakan higher-order function yang berarti untuk mengoneksikan
+3. Sintaks tersebut merupakan higher-order function yang berarti untuk mengoneksikan atau mengembalikan fungsi ke default counter
 
 4. Link : https://github.com/jfcere/react-redux-sample
 ![tugas](img/Hasil6-Tugas.PNG)

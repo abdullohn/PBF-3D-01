@@ -1,11 +1,9 @@
-# 06 - React Redux
+# 07 - Context dan HOC di ReactJS
 
 ## Tujuan Pembelajaran
 
-1. Konsep Redux dan manfaatnya
-2. Instalasi dan konfigurasi Redux di ReactJS
-3. Membuat aplikasi sederhana dengan Redux di ReactJS
-
+1. Konsep Context dan manfaatnya
+2. Konsep HOC di ReactJS
 
 ## Hasil Praktikum
 

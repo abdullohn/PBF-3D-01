@@ -39,7 +39,7 @@ Untuk melihat kode Praktikum 2 langsung klik tautan berikut [Link Code 2](../../
 - Pure Functions : Fungsi semacam itu disebut "murni" karena tidak berusaha mengubah masukannya, dan selalu mengembalikan hasil yang sama untuk masukan yang sama.
 - Immutability : Value yang tidak bisa diubah ketika sudah dideklerasikan
 
-3. Sintaks tersebut merupakan higher-order function yang berarti untuk mengoneksikan
+3. Sintaks tersebut merupakan higher-order function yang berarti untuk mengoneksikan atau mengembalikan fungsi ke default counter
 
 4. https://github.com/cloudmu/react-redux-starter-kit#getting-started
 

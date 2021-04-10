@@ -8,12 +8,12 @@ Anda diminta oleh sebuah perusahaan untuk mengonversi templat web pada tautan in
 Artinya, Anda harus mengubah HTML statis tersebut menjadi komponen-komponen React menjadi
 sebuah Single-Page Application (SPA). Selain itu, ada permintaan spesifikasi lain, yaitu:
 
-a. Anda diminta untuk menggunakan React Router pada setiap menu di web tersebut.
+- Anda diminta untuk menggunakan React Router pada setiap menu di web tersebut.
 
-b. Anda diminta untuk meletakkan semua konten (seperti artikel, link gambar, komentar, dsb)
+- Anda diminta untuk meletakkan semua konten (seperti artikel, link gambar, komentar, dsb)
 web di file JSON kemudian dipanggil dengan API (GET).
 
-c. Anda diminta untuk menggunakan Redux agar konten web tersimpan di store, sehingga
+- Anda diminta untuk menggunakan Redux agar konten web tersimpan di store, sehingga
 proses GET API tidak membutuhkan waktu lebih lama (low latency)
 
 ## Penilaian
@@ -29,9 +29,9 @@ proses GET API tidak membutuhkan waktu lebih lama (low latency)
 
 ## Hasil 
 
-- ![praktikum1](img/Hasil7-1.PNG)
-- ![praktikum2](img/Hasil7-2.PNG)
-- ![praktikum3](img/Hasil7-3.PNG)
+- ![hasil1](img/Hasil8-1.PNG)
+- ![hasil2](img/Hasil8-2.PNG)
+- ![hasil3](img/Hasil8-3.PNG)
 
 Berikut merupakan tautan kode program [Source Code](../../src/08_UTS)
 

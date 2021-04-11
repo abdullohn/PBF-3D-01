@@ -33,14 +33,12 @@ Setelah itu barulah meletakkan konten-konten yang dibutuhkan seperti artikel, ga
 Setelah semua itu diintegrasikan maka jadilah projek yang diinginkan dan tidak lupa memenuhi aturan-aturan penilaian poin agar mendapatkan yang maksimal, berikut hasil screenshot dari semua itu.
 
 - testasdasdasdasdasd
+
 ![hasil1](img/Hasil8-1.PNG)
 
 - Struktur file terlihat seperti gambar dibawah 
+
 ![hasil2](img/Hasil8-2.PNG)
-
-- tessdfsdfsdfsdf
-
-![hasil3](img/Hasil8-3.PNG)
 
 Berikut merupakan tautan kode program [Source Code](../../src/08_UTS)
 

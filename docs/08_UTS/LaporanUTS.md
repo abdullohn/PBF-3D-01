@@ -36,9 +36,18 @@ Setelah semua itu diintegrasikan maka jadilah projek yang diinginkan dan tidak l
 
 ![hasil1](img/Hasil8-1.PNG)
 
+- Menggunakan Redux
+
+![hasil1](img/Hasil8-3.PNG)
+
 - Struktur file terlihat seperti gambar dibawah 
 
 ![hasil2](img/Hasil8-2.PNG)
+
+- Apabila Menggunakan Redux
+
+![hasil2](img/Hasil8-4.PNG)
+
 
 Berikut merupakan tautan kode program [Source Code](../../src/08_UTS)
 

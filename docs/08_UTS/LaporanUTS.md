@@ -32,7 +32,7 @@ Setelah itu barulah meletakkan konten-konten yang dibutuhkan seperti artikel, ga
 
 Setelah semua itu diintegrasikan maka jadilah projek yang diinginkan dan tidak lupa memenuhi aturan-aturan penilaian poin agar mendapatkan yang maksimal, berikut hasil screenshot dari semua itu.
 
-- testasdasdasdasdasd
+- Aplikasi React
 
 ![hasil1](img/Hasil8-1.PNG)
 

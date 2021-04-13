@@ -36,17 +36,23 @@ Setelah semua itu diintegrasikan maka jadilah projek yang diinginkan dan tidak l
 
 ![hasil1](img/Hasil8-1.PNG)
 
-- Menggunakan Redux
-
-![hasil1](img/Hasil8-3.PNG)
-
-- Struktur file terlihat seperti gambar dibawah 
+- React Router di halaman Home
 
 ![hasil2](img/Hasil8-2.PNG)
 
-- Apabila Menggunakan Redux
+- Penggunaan API File JSON
 
-![hasil2](img/Hasil8-4.PNG)
+![hasil2](img/Hasil8-3.PNG)
+
+- Menggunakan Redux
+
+![hasil1](img/Hasil8-4.PNG)
+
+Salah satu halaman yang menggunakan Redux [Source Code](../../src/08_UTS/src/component/Gallery.js)
+
+- Struktur File
+
+![hasil2](img/Hasil8-5.PNG)
 
 
 Berikut merupakan tautan kode program [Source Code](../../src/08_UTS)

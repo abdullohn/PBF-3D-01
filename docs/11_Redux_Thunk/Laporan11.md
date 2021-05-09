@@ -1,8 +1,8 @@
-# 10 - Firabse di React JS
+# 11 - Redux Thunks
 
 ## Tujuan Pembelajaran
-- Mahasiswa mengetahui dan memahami konsep firebase
-- Mahasiswa dapat membuat koneksi ke firebase dengan ReactJS
+- Konsep dan implementasi Redux-Thunk di ReactJS
+- Konsep dan implementasi Firebase Login dengan Redux-Thunk di ReactJS
 
 ## Hasil Praktikum
 ## Praktikum 1

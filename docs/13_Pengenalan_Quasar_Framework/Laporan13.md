@@ -16,13 +16,9 @@
 
 ![Hasil Run Praktikum](img/hasil1.PNG)
 
-![Hasil Run Praktikum](img/hasil2.PNG)
-
 ![Hasil Run Praktikum](img/hasil3.PNG)
 
-![Hasil Run Praktikum](img/hasil5.PNG)
-
-![Hasil Run Praktikum](img/hasil.PNG)
+![Hasil Run Praktikum](img/hasil2.PNG)
 
 
 [Kode Program Praktikum : Components/Login.js](../../src/13_Pengenalan_Quasar_Framework/src/pages/Index.vue)
@@ -97,3 +93,4 @@
 - https://medium.com/@renopp/kenalan-dengan-es6-javascript-introduction-variable-arrow-function-part1-6bd5c148473b 
 
 ## Kesimpulan
+Kita mengenal Struktur Dasar file, pengenalan dan yang terpenting adalah dengan dukungan seluruh platform utama dan komponen aplikasi yang siap pakai, Framework Quasar adalah sebuah paket lengkap untuk pengembangan JavaScript.

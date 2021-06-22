@@ -29,10 +29,54 @@
 
 ![Hasil Run TUGAS](img/tugas1.PNG)
 
-2. 
+2. - `colors` digunakan untuk memberi warna pada komponen grafis. Berikut tabel penjelasannya
+
+| Parameter | Tipe | Yang Dibutuhkan | Deskripsi |
+|--|--|--|--|
+| `colorName` | String | Ya | Salah satu dari `primary`, `secondary`, `accent`, `dark`, `positive`, `negative`, `info`, `warning` |
+| `colorValue` | String | Ya | Nilai CSS yang valid |
+| `element` | Element | - | (Default: `document.body`) Elemen tempat properti kustom akan ditetapkan |
+
+- `data()` untuk mengambil data
+
+- `computed` Apabila Vue di inisiasikan, properti pada `computed` aka dikonversikan menjadi properti Vue getter atau setter. Pada dasarnya dapat menganggap nilai yang dihitung sebagai nilai turunan yang akan diperbarui secara otomatis setiap kali salah satu nilai dasar yang digunakan untuk menghitungnya diperbarui dan tidak memanggil yang dihitung dan tidak menerima parameter apa pun. Bisa mereferensikan properti yang dihitung seperti halnya properti data. 
+
+- `mounted` Sering digunakan di [lifecycle hook](https://vuejs.org/v2/guide/instance.html#Instance-Lifecycle-Hooks) pada Vue. Vue memanggil `mounted` ketika komponen ditambahkan di DOM. Ini paling sering digunakan untuk mengirim permintaan HTTP untuk mengambil data yang kemudian akan dirender oleh komponen.
+
+- `beforeDestroy()` Siklus hidup Vue ini dipanggil tepat sebelum instance Vue dihancurkan, instance dan semua fungsi masih utuh dan berfungsi di sini. Ini adalah tahap di mana Anda dapat melakukan manajemen, menghapus variabel dan membersihkan komponen.
+
+Berikut Lifecycle hooks pada vue
+
+![Hasil Run TUGAS](img/tugas2.PNG)
+
+3. Seperti yang sudah kita pelajari pada nomor sebelumnya berikut penjelasannya dicomment tiap-tiap line
+
+![Hasil Run TUGAS](img/tugas3.PNG)
+
+4. Error dikarenakan template root hanya butuh satu elemen
+
+
 ## Referensi
+
 - https://quasar.dev/layout/grid/introduction-to-flexbox
 
 - https://quasar.dev/style/spacing#syntax
 
+- https://quasar.dev/style/color-palette
+
+- https://quasar.dev/layout/grid/gutter
+
+- https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram
+
+- https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html
+
+- https://stackoverflow.com/questions/44350862/method-vs-computed-in-vue
+
+- https://vuejs.org/v2/guide/computed.html#Computed-Properties
+
+- https://masteringjs.io/tutorials/vue/mounted
+
+- https://blog.logrocket.com/introduction-to-vue-lifecycle-hooks/
+
 ## Kesimpulan
+Mengerti basic vue dan quasar hingga memecahkan masalah yang ada pada tugas

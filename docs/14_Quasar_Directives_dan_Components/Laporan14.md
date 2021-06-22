@@ -11,7 +11,7 @@
 
 ![Hasil Run Praktikum](img/hasil2.PNG)
 
-[Kode Program Praktikum : Components/Login.js](../../src/14_Quasar_Directives_dan_Components/)
+[Kode Program Praktikum Bisa Klik Disini](../../src/14_Quasar_Directives_dan_Components/)
 
 ## Tugas
 
@@ -47,7 +47,7 @@
 
 Berikut Lifecycle hooks pada vue
 
-![Hasil Run TUGAS](img/tugas2.PNG)
+![Hasil Run TUGAS](img/tugas2.png)
 
 3. Seperti yang sudah kita pelajari pada nomor sebelumnya berikut penjelasannya dicomment tiap-tiap line
 
